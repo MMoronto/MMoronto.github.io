@@ -1,0 +1,20 @@
+# Site settings
+author: MOBOLA MORONTO
+title: 
+header-img: img/home-bg.png
+email: t2wycemo@gmail.com
+copyright_name: MOBOLA MORONTO
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: mmoronto
+github_username:  MMoronto
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
