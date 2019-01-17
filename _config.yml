@@ -1,11 +1,11 @@
 # Site settings
-author: MOBOLA MORONTO
-title: 
+author: Morakinyo Moronto
+title: The Code Life
 header-img: img/home-bg.png
 email: t2wycemo@gmail.com
-copyright_name: MOBOLA MORONTO
+copyright_name: Morakinyo Moronto
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Morphing From Structural Engineer to Full Stack Web Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: mmoronto
 github_username:  MMoronto
