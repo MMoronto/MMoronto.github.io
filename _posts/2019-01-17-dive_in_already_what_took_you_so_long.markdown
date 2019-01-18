@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Dive In Already...What took you so Long? "
-date:       2019-01-18 02:39:40 +0000
+date:       2019-01-17 21:39:42 -0500
 permalink:  dive_in_already_what_took_you_so_long
 ---
 
